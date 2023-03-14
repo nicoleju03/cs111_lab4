@@ -23,4 +23,4 @@ total 7
 
 ## Cleaning up
 
-Unmount the filesystem with ``sudo umount mnt```, and remove the mount directory with ```rmdir mnt```. Clean up binary files with ```make clean```.
+Unmount the filesystem with ```sudo umount mnt```, and remove the mount directory with ```rmdir mnt```. Clean up binary files with ```make clean```.
